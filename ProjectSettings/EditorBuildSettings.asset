@@ -5,16 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/LEGO/Scenes/LEGO Tutorial.unity
     guid: c117ceea613454843a1d1c28c25d7a94
-  - enabled: 1
+  - enabled: 0
     path: Assets/LEGO/Scenes/Menu Intro.unity
     guid: 77504b30d92956e4ab45b9e740f2d454
   - enabled: 1
-    path: Assets/LEGO/Scenes/Menu Win.unity
-    guid: 05cfb1c697d1a4d22b5edccf653ebd94
-  - enabled: 1
     path: Assets/LEGO/Scenes/Menu Lose.unity
     guid: 23bd42193fd3048b7b6f4dedf8f3317a
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: 9c11ae58f8861c64d85087b52eeeaa84
+  - enabled: 1
+    path: Assets/Scenes/microgame maze.unity
+    guid: 92381c02c4e9d174389f90fe4ceb462a
+  - enabled: 1
+    path: Assets/Scenes/Platformer Microgame.unity
+    guid: c88f2a6b3570023489f6277eae0d70c5
+  - enabled: 1
+    path: Assets/Scenes/Reece Microgame.unity
+    guid: d86c18122959ee849a63e26d8a8538f5
+  - enabled: 1
+    path: Assets/LEGO/Scenes/Menu Win.unity
+    guid: 05cfb1c697d1a4d22b5edccf653ebd94
   m_configObjects: {}
