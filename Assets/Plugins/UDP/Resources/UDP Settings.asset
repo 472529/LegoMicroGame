@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 41aca29f-97d4-4d9d-b1fa-58e26f54a902
+  UnityClientID: 45YttG4KWajrEJsCbKsJeg
+  UnityClientKey: ke5-Sv-8BIcw3w32RT12TKPEl4ujpbXeffY5jkwxJF0
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgYWt1BHmSivcEVhXPlzeVHpR7ADI9Dk0R0XJIePpDnjIH1xBlgir5IMh3VMuFkoAR9X5Sn+TFF89cDFo3l8Nt+GtrHTwtCdrLpEeS/ki9Jk3AOhXd6F+KLM6ogWce0sktYmGHAMtTIsdt9WPaPH0SrPGASRM3gx8ZsS/T0IiTV5MQAIdmufW9EyASH04NmObp2pQBYuK+HeQTce7JXFvShBnT/mI7TvjOuBSlGq6/msEt/exd3gSsz3Mnpk3uHTVpIXorwDyjt+m5579AHGkXS9vS3svo/y//e1CkHF/jnfBbF/ogV4zQQr1QMpnExieslM/VkDbwzZx7UwK8iTSRwIDAQAB
+  AppName: Dracula's Crazy Pizza Delivery
+  AppSlug: 247a5350-4684-4468-8c65-fe39f25334f7
+  AppItemId: 620e359060c986f4e5bddc78
+  Permission: 

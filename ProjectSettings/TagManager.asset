@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Projectile
   - TutorialRequirement
+  - Fall
   layers:
   - Default
   - TransparentFX
